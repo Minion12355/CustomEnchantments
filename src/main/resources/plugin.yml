@@ -1,0 +1,6 @@
+name: CustomEnchantments
+version: ${project.version}
+main: entropis.customenchantments.CustomEnchantments
+api-version: 1.13
+authors: [Minion]
+description: A custom enchantment plugin for use on Entropis Servers MMO Faction server
